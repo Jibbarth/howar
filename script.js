@@ -1,6 +1,6 @@
 /* Variables*/
 
-urlToRefresh = "http://jibébarth.fr";
+urlToRefresh = "http://hautdebitmobile.orange.fr:8443.fr";
 
 
    //
